@@ -1,0 +1,15 @@
+[submodule "engine/xash3d"]
+	path = engine/xash3d
+	url = https://github.com/FWGS/xash3d
+[submodule "engine/nanogl"]
+	path = engine/nanogl
+	url = https://github.com/FWGS/nanogl
+[submodule "engine/gl-wes-v2"]
+	path = engine/gl-wes-v2
+	url = https://github.com/FWGS/gl-wes-v2
+[submodule "engine/hlsdk-xash3d"]
+	path = engine/hlsdk-xash3d
+	url = https://github.com/FWGS/hlsdk-xash3d
+[submodule "microndk"]
+	path = microndk
+	url = https://github.com/mittorn/microndk
