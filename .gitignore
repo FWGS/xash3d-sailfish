@@ -1,0 +1,5 @@
+# Ignore generated bullshit
+documentation.list
+
+# Ignore built RPMs
+RPMS/
